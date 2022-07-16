@@ -2,6 +2,7 @@
 
 * [Get Started](README.md)
 * [Tyzen.conf](tyzen.conf.md)
+* [Feature](feature.md)
 * [Dependencies](dependencies.md)
 * [Building](building.md)
 
