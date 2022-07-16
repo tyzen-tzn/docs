@@ -23,3 +23,4 @@
 ***
 
 * [JSON-RPC Interface](json-rpc-interface.md)
+* [API reference (JSON-RPC)](api-reference-json-rpc.md)
