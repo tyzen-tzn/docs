@@ -3,6 +3,8 @@
 * [Get Started](README.md)
 * [Tyzen.conf](tyzen.conf.md)
 * [Feature](feature.md)
+* [Specifications](specifications.md)
+* [Network](network.md)
 * [Dependencies](dependencies.md)
 * [Building](building.md)
 
