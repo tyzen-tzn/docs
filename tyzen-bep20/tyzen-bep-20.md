@@ -10,3 +10,5 @@ Tyzen Token is a bep-20 version of the Tyzen coin issued under the Binance Smart
 
 The simple system that is made is that every transaction made using Tyzen Token will generate a commission in the form of BNB which will then be used in the development of the Tyzen Blockchain, Marketing, and keeping Tyzen (Tyzen coin & Tyzen Token) from experiencing a significant price decline in a short time.
 
+![](../.gitbook/assets/Token-Allocation.png)
+

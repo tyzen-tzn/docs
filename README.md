@@ -11,6 +11,8 @@ To download Tyzen Core, visit [www.tyzen.io](https://www.tyzen.io/downloads)
 
 ![](.gitbook/assets/Tyzen-core.png)
 
+![](.gitbook/assets/Coin-Allocation.png)
+
 ### Running
 
 The following are some helpful notes on how to run Tyzen Core on your native platform.
