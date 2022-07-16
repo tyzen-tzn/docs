@@ -19,3 +19,7 @@
 * [Linux Distribution Specific Instructions](compile/linux-distribution-specific-instructions.md)
 * [Windows Distribution Specific Instructions](compile/windows-distribution-specific-instructions.md)
 * [MacOS Distribution Specific Instructions](compile/macos-distribution-specific-instructions.md)
+
+***
+
+* [JSON-RPC Interface](json-rpc-interface.md)
